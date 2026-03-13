@@ -45,8 +45,16 @@ const changes = [
     version: "1.1.5:2_26",
     title: "SMALL IMROVEMENTS & BUG FIXES",
     items: [
-      "Made search bar smaller and paler",
+      "Made search bar smaller and brighter",
       "Fixed next/previous website arrows"
+    ]
+  },
+  {
+    version: "1.2.0:0_27",
+    title: "TABS UPDATE",
+    items: [
+      "Added tabs",
+      "Tabs ONLY save webs 'url', not web data"
     ]
   }
 ];
