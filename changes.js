@@ -40,5 +40,13 @@ const changes = [
       "Improved loading bar behavior.",
       "Updated UI."
     ]
+  },
+  {
+    version: "1.1.5:2_26",
+    title: "SMALL IMROVEMENTS & BUG FIXES",
+    items: [
+      "Made search bar smaller and paler",
+      "Fixed next/previous website arrows"
+    ]
   }
 ];
