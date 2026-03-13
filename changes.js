@@ -49,12 +49,17 @@ const changes = [
       "Fixed next/previous website arrows"
     ]
   },
-  {
-    version: "1.2.0:0_27",
-    title: "TABS UPDATE",
-    items: [
-      "Added tabs",
-      "Tabs ONLY save webs 'url', not web data"
-    ]
-  }
+{
+  version: "1.2.0:0_27",
+  title: "TABS UPDATE",
+  items: [
+    "Added a basic tab system.",
+    "Tabs can now be added and removed.",
+    "Active tab is grey and includes a close button.",
+    "Inactive tabs are white and have no close button.",
+    "Each tab stores the current web's URL when switching.",
+    "Tabs do NOT store scroll or internal web data yet."
+  ]
+}
+
 ];
