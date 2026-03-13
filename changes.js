@@ -8,7 +8,7 @@ const changes = [
   },
   {
     version: "1.1.2:0_12",
-    title: "SCROLL UPDATE",
+    title: "SCROLL UPDATE (10/3/26)",
     items: [
       "Websites are now scrollable.",
       "Scroll is unstable, especially in buttons.",
@@ -18,14 +18,15 @@ const changes = [
   },
   {
     version: "1.1.3:0_15",
-    title: "BAR UPDATE",
+    title: "BAR UPDATE  (10/3/26)",
     items: [
-      "A loading bar has been added."
+      "A loading bar has been added.",
+      "Later was perfectionated"
     ]
   },
   {
     version: "1.1.4:0_17",
-    title: "ARROW & UI UPDATE",
+    title: "ARROW & UI UPDATE  (12/3/26)",
     items: [
       "Added next/previous website navigation.",
       "Improved overall UI (preparing for tabs)."
@@ -33,7 +34,7 @@ const changes = [
   },
   {
     version: "1.1.5:0_21",
-    title: "SCROLL FIX & UI IMPROVEMENTS",
+    title: "SCROLL FIX & UI IMPROVEMENTS  (12/3/26)",
     items: [
       "Fixed double-scroll issues.",
       "Stabilized button scrolling.",
@@ -43,7 +44,7 @@ const changes = [
   },
   {
     version: "1.1.5:2_26",
-    title: "SMALL IMROVEMENTS & BUG FIXES",
+    title: "SMALL IMROVEMENTS & BUG FIXES  (13/3/26)",
     items: [
       "Made search bar smaller and brighter",
       "Fixed next/previous website arrows"
@@ -51,7 +52,7 @@ const changes = [
   },
 {
   version: "1.2.0:0_27",
-  title: "TABS UPDATE",
+  title: "TABS UPDATE (13/3/26)",
   items: [
     "Added a basic tab system.",
     "Tabs can now be added and removed.",
