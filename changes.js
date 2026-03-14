@@ -95,6 +95,18 @@ const changes = [
     "Webs with PSS now load much faster than before.",
     "Webs without PSS (like New tab) load almost instantly."
   ]
+},
+  {
+  version: "1.3.1:0_37",
+  title: "PSS SINGLE-PASS SYSTEM (14/3/26)",
+  items: [
+    "The PSS now executes only once per web instead of once per element.",
+    "Base PSS properties are stored at load time and applied instantly.",
+    "PML properties now override PSS values cleanly and efficiently.",
+    "Massive performance boost: heavy pages load in ~7 seconds without Turbo.",
+    "lastupdate.pml now loads instantly thanks to the new architecture."
+  ]
 }
+
 
 ];
