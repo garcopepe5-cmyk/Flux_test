@@ -73,5 +73,16 @@ const changes = [
       "New tab button has hover feedback for improved UX.",
       "Overall visual consistency of the tab bar has been improved."
     ]
+  },
+  {
+    version: "1.2.2:2_35",
+    title: "ORIGIN UPDATE (14/3/26)",
+    items: [
+      "Added the ORIGIN button under the Inspect button.",
+      "ORIGIN shows all the properties the PML engine used to draw the web.",
+      "Each element now has its own entry in the lists (size, color, bold, text, etc).",
+      "Added a tab per element type inside ORIGIN.",
+      "Useful for debugging how the page was rendered."
+    ]
   }
 ];
