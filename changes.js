@@ -84,5 +84,17 @@ const changes = [
       "Added a tab per element type inside ORIGIN.",
       "Useful for debugging how the page was rendered."
     ]
-  }
+  },
+  {
+  version: "1.3.0:0_36",
+  title: "PERFORMANCE & PSS UPDATE (14/3/26)",
+  items: [
+    "Improved overall performance of page rendering.",
+    "Fixed an issue where the PSS was being executed twice.",
+    "PSS now only runs on webs that actually use it.",
+    "Webs with PSS now load much faster than before.",
+    "Webs without PSS (like New tab) load almost instantly."
+  ]
+}
+
 ];
