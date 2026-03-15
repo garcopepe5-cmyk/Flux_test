@@ -118,7 +118,19 @@ const changes = [
     "PPP can now return multiple PML lines.",
     "Internal improvements to Flux Server for PPP support."
   ]
+},
+  {
+  version: "3.0.2:0_42",
+  title: "HISTORY UPDATE (15/3/26)",
+  items: [
+    "Added a browsing history system.",
+    "Flux now stores recently visited websites.",
+    "History can be opened from the UI to revisit past pages.",
+    "Each entry is clickable and loads instantly.",
+    "Improved navigation flow when switching between history items."
+  ]
 }
+
 
 
 
