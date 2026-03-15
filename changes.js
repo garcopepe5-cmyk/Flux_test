@@ -106,7 +106,20 @@ const changes = [
     "Massive performance boost: heavy pages load in ~7 seconds without Turbo.",
     "lastupdate.pml now loads instantly thanks to the new architecture."
   ]
+},
+  {
+  version: "3.0.1:0_41",
+  title: "PPP UPDATE (15/3/26)",
+  items: [
+    "Added PPP (PML PreProcessor).",
+    "Added received.data to capture client input.",
+    "Added data.contains.X.N for conditional logic.",
+    "Added pml.return.* to generate PML dynamically.",
+    "PPP can now return multiple PML lines.",
+    "Internal improvements to Flux Server for PPP support."
+  ]
 }
+
 
 
 ];
